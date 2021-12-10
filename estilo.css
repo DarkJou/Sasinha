@@ -1,0 +1,27 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    text-align: center;
+}
+body{
+    background-image: url(http://pm1.narvii.com/7335/85e7c894a653ca1346416f982da3e7098f6a01acr1-720-1280v2_uhq.jpg);
+
+    margin-top: 14rem;
+}
+h2{
+    font-family: fantasy;
+    font-size: 35px;
+    letter-spacing: 3px;
+}
+h4{
+    font-family: monospace;
+    padding-bottom: 10px;
+}
+input{
+    font-family: cursive;
+    font-size: 15px;
+    margin: 10px;
+    padding: 2px;
+    padding-right: 8px;
+    padding-left: 8px;
+}
